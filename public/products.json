@@ -1,0 +1,96 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Polo rayas Better Cotton bebé",
+      "price": 19.99,
+      "image": "https://assets.mayoral.com/images/t_auto_img,f_auto,c_limit,w_750/v1675851247/13-02171-037-XL-4/polo-rayas-better-cotton-bebe-yema-cielo-XL-4.jpg",
+      "reverseImage": "https://assets.mayoral.com/images/t_auto_img,f_auto,c_limit,w_750/v1675851249/13-02171-037-XL-5/polo-rayas-better-cotton-bebe-yema-cielo-XL-5.jpg",
+      "hasMoreColors": false
+    },
+    {
+      "id": 2,
+      "name": "Polo estampado Better Cotton bebé",
+      "price": 19.99,
+      "discount": 20,
+      "discountType": "percentage",
+      "image": "https://assets.mayoral.com/images/t_auto_img,f_auto,c_limit,w_750/v1677675835/13-02169-033-XL-4/polo-estampado-better-cotton-bebe-marino-XL-4.jpg",
+      "reverseImage": "https://assets.mayoral.com/images/t_auto_img,f_auto,c_limit,w_750/v1677675837/13-02169-033-XL-5/polo-estampado-better-cotton-bebe-marino-XL-5.jpg",
+      "hasMoreColors": true
+    },
+    {
+      "id": 3,
+      "name": "Polo cuello contraste Better Cotton bebé",
+      "price": 20.99,
+      "image": "https://assets.mayoral.com/images/t_auto_img,f_auto,c_limit,w_750/v1690800028/13-02168-047-XL-4/polo-cuello-contraste-better-cotton-bebe-rojo-XL-4.jpg",
+      "reverseImage": "https://assets.mayoral.com/images/t_auto_img,f_auto,c_limit,w_750/v1690800119/13-02168-047-XL-5/polo-cuello-contraste-better-cotton-bebe-rojo-XL-5.jpg",
+      "hasMoreColors": false
+    },
+    {
+      "id": 4,
+      "name": "Polo combinado Better Cotton bebé",
+      "price": 19.99,
+      "discount": 2,
+      "discountType": "fixed amount",
+      "image": "https://assets.mayoral.com/images/t_auto_img,f_auto,c_limit,w_750/v1690533139/13-02170-054-XL-4/polo-combinado-better-cotton-bebe-klein-rojo-XL-4.jpg",
+      "reverseImage": "https://assets.mayoral.com/images/t_auto_img,f_auto,c_limit,w_750/v1690533140/13-02170-054-XL-5/polo-combinado-better-cotton-bebe-klein-rojo-XL-5.jpg",
+      "hasMoreColors": false
+    },
+    {
+      "id": 5,
+      "name": "Polo mao rayas Better Cotton bebé",
+      "price": 19.99,
+      "discount": 10,
+      "discountType": "percentage",
+      "image": "https://assets.mayoral.com/images/t_auto_img,f_auto,c_limit,w_750/v1690533113/13-53131-700-XL-4/polo-mao-rayas-better-cotton-bebe-noche-XL-4.jpg",
+      "reverseImage": "https://assets.mayoral.com/images/t_auto_img,f_auto,c_limit,w_750/v1690533056/13-53131-700-XL-5/polo-mao-rayas-better-cotton-bebe-noche-XL-5.jpg",
+      "hasMoreColors": false
+    },
+    {
+      "id": 6,
+      "name": "Polo aplique Better Cotton bebé",
+      "price": 19.99,
+      "discount": 10,
+      "discountType": "fixed amount",
+      "image": "https://assets.mayoral.com/images/t_auto_img,f_auto,c_limit,w_750/v1690533646/13-02172-044-XL-4/polo-aplique-better-cotton-bebe-antracita-XL-4.jpg",
+      "reverseImage": "https://assets.mayoral.com/images/t_auto_img,f_auto,c_limit,w_750/v1690533674/13-02172-044-XL-5/polo-aplique-better-cotton-bebe-antracita-XL-5.jpg",
+      "hasMoreColors": false
+    },
+    {
+      "id": 7,
+      "name": "Polo cuello contraste Better Cotton bebé",
+      "price": 17.99,
+      "image": "https://assets.mayoral.com/images/t_auto_img,f_auto,c_limit,w_750/v1690799015/13-02168-048-XL-4/polo-cuello-contraste-better-cotton-bebe-nata-XL-4.jpg",
+      "reverseImage": "https://assets.mayoral.com/images/t_auto_img,f_auto,c_limit,w_750/v1690799051/13-02168-048-XL-5/polo-cuello-contraste-better-cotton-bebe-nata-XL-5.jpg",
+      "hasMoreColors": true
+    },
+    {
+      "id": 8,
+      "name": "Polo aplique Better Cotton bebé",
+      "price": 19.99,
+      "discount": 3,
+      "discountType": "fixed amount",
+      "image": "https://assets.mayoral.com/images/t_auto_img,f_auto,c_limit,w_750/v1675851251/13-02172-043-XL-4/polo-aplique-better-cotton-bebe-rojo-XL-4.jpg",
+      "reverseImage": "https://assets.mayoral.com/images/t_auto_img,f_auto,c_limit,w_750/v1675851251/13-02172-043-XL-5/polo-aplique-better-cotton-bebe-rojo-XL-5.jpg",
+      "hasMoreColors": false
+    },
+    {
+      "id": 9,
+      "name": "Polo cuello contraste Better Cotton bebé",
+      "price": 19.99,
+      "image": "https://assets.mayoral.com/images/t_auto_img,f_auto,c_limit,w_750/v1690799015/13-02168-049-XL-4/polo-cuello-contraste-better-cotton-bebe-laurel-XL-4.jpg",
+      "reverseImage": "https://assets.mayoral.com/images/t_auto_img,f_auto,c_limit,w_750/v1690799053/13-02168-049-XL-5/polo-cuello-contraste-better-cotton-bebe-laurel-XL-5.jpg",
+      "hasMoreColors": true
+    },
+    {
+      "id": 10,
+      "name": "Polo combinado Better Cotton bebé",
+      "price": 19.99,
+      "discount": 30,
+      "discountType": "fixed amount",
+      "image": "https://assets.mayoral.com/images/t_auto_img,f_auto,c_limit,w_750/v1678712472/13-02170-053-XL-4/polo-combinado-better-cotton-bebe-miel-menta-XL-4.jpg",
+      "reverseImage": "https://assets.mayoral.com/images/t_auto_img,f_auto,c_limit,w_750/v1678712473/13-02170-053-XL-5/polo-combinado-better-cotton-bebe-miel-menta-XL-5.jpg",
+      "hasMoreColors": true
+    }
+  ]
+}
