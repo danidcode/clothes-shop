@@ -3,6 +3,6 @@ export const containsAllWords = (text: string, filter: string) => {
   const wordsInText = text.toLowerCase().split(/\s+/);
 
   return wordsInFilter.every((wordInFilter) =>
-    wordsInText.some((wordInText) => wordInFilter.includes(wordInText)),
+    wordsInText.some((wordInText) => wordInText.includes(wordInFilter)),
   );
 };

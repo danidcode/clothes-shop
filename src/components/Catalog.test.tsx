@@ -17,7 +17,7 @@ jest.mock('../../public/products.json', () => ({
 }));
 
 
-test('Catalog renders correctly and handles filtering', () => {
+test('Catalog renders correctly and handles filtering ', () => {
     // Render the Catalog component
     const { getByText, getByPlaceholderText } = render(<Catalog />);
 

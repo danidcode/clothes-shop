@@ -2,7 +2,7 @@ import Product from 'interfaces/Product'
 import Image from 'next/image'
 
 import { formatPrice } from '../utils/format-price'
-import { calculateDiscountedPrice, getDiscountSuffix } from '../utils/get-discount'
+import { getDiscountSuffix } from '../utils/get-discount'
 import { Tooltip } from "@material-tailwind/react";
 import { useState } from 'react'
 
@@ -13,7 +13,7 @@ type Props = {
 const ProductCard = ({ product, imageHeight }: Props) => {
 
     const [isImageHovered, setIsImageHovered] = useState(false)
-    const { name, price, image, reverseImage, discount, discountType, hasMoreColors } = product
+    const { name, price, totalPrice, image, reverseImage, discount, discountType, hasMoreColors } = product
 
     return (
         <div className="overflow-hidden flex items-center flex-col 
@@ -39,7 +39,7 @@ const ProductCard = ({ product, imageHeight }: Props) => {
 
                     {discount && (
                         <span className='text-red-500'>
-                            {calculateDiscountedPrice(price, discount, discountType)} (-{discount}{getDiscountSuffix(discountType)})
+                            {totalPrice} (-{discount}{getDiscountSuffix(discountType)})
                         </span>
                     )}
                 </div>
